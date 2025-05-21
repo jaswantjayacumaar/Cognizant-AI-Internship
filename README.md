@@ -41,7 +41,7 @@ This virtual experience introduced participants to real-world tasks performed by
 
 ## 📄 Certificate
 
-Click [here to view the certificate]([https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_jknuBhgXJfSLAqrfw_1687173911011_completion_certificate.pdf])
+Click [here to view the certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_jknuBhgXJfSLAqrfw_1687173911011_completion_certificate.pdf)
 
 ## 🏁 Conclusion
 
