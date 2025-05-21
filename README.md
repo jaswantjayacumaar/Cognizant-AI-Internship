@@ -1,7 +1,5 @@
-# Cognizant Artificial Intelligence Virtual Experience (via Forage)
+# Cognizant Artificial Intelligence Virtual Experience
 
-
-## 🚀 Cognizant Artificial Intelligence Virtual Experience
 
 This virtual experience introduced participants to real-world tasks performed by Cognizant’s AI & Analytics team. It covered the complete data science workflow from exploratory analysis to model deployment.
 
@@ -41,3 +39,10 @@ This virtual experience introduced participants to real-world tasks performed by
 * Quality Assurance
 * Model Interpretability
 
+## 📄 Certificate
+
+Click [here to view the certificate]([https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_jknuBhgXJfSLAqrfw_1687173911011_completion_certificate.pdf])
+
+## 🏁 Conclusion
+
+This experience provided a practical, hands-on introduction to data science in an enterprise context. It showcases a complete end-to-end workflow aligned with real industry expectations.
